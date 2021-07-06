@@ -10,7 +10,7 @@ _____________________________________
 
 Download the code by cloning the git repository using
 
-$ git clone https://github.com/rajeshmondal18/DiSukta
+$ git clone https://github.com/rajeshmondal18/DviSukta
 _____________________________________
 
 The code starts by reading the real space gridded data and performing a 3D Fourier transform of it. Alternatively, it starts by reading the data already in Fourier space.
