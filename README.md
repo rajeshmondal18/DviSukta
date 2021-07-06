@@ -13,6 +13,8 @@ Download the code by cloning the git repository using
 $ git clone https://github.com/rajeshmondal18/DiSukta
 _____________________________________
 
+The code starts by reading the real space gridded data and performing a 3D Fourier transform of it. Alternatively, it starts by reading the dataalready in Fourier space.
+
 If your data is in real space, you need to install FFTW-3.x.x with following flags: '--enable-float', '--enable-threads' and '--enable-openmp' to compile this set of codes. Look at the installation instruction http://www.fftw.org/fftw3_doc/Installation-on-Unix.html#Installation-on-Unix
 _____________________________________
 
