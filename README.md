@@ -29,7 +29,10 @@ You need to specify
 2. The number of k1 bins 
 3. The number of n bins 
 4. The number of cos(theta) bins 
+
 in the input file.
+
+An input data "c_data8.0_100" (binary data) and an input file "input.bispec" have been provided for testing.  
 _____________________________________
 
 To run:
