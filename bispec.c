@@ -69,7 +69,6 @@ void main()
   
   inp=fopen("input.bispec","r");
   fscanf(inp,"%f",&LL);
-  fscanf(inp,"%f",&z);
   fscanf(inp, "%d", &Nk1bin);
   fscanf(inp, "%d", &Nnbin);  
   fscanf(inp, "%d", &Ncostbin); 
