@@ -5,7 +5,7 @@ _____________________________________
 This is a parallelized code for the calculation of the Spherically Averaged Bispectrum (SABS). It is based on a new optimised direct estimation method and written in C.
 _____________________________________
 
-The user is referred to section 2 of Mondal et al. 2021 for a detailed description of the algorithm.
+The user is referred to section 2 of Mondal et al. 2021 (https://arxiv.org/abs/2107.02668) for a detailed description of the algorithm.
 _____________________________________
 
 Download the code by cloning the git repository using
@@ -42,4 +42,4 @@ To run:
 $ ./bispec
 _____________________________________
 
-Please acknowledge Mondal et al. 2021 if you are using the code.
+Please acknowledge Mondal et al. 2021 (https://arxiv.org/abs/2107.02668) if you are using the code.
