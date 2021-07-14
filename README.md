@@ -23,7 +23,7 @@ Use the makefile for compilation in the following manner:
 $ make
 
 
-It will create the executable 'bispec'
+It will create the executable 'bispec'.
 _____________________________________
 
 You need to specify 
@@ -42,4 +42,4 @@ To run:
 $ ./bispec
 _____________________________________
 
-Please acknowledge Mondal et al. 2021 (https://arxiv.org/abs/2107.02668) if you are using the code.
+Please acknowledge Mondal et al. 2021 (https://arxiv.org/abs/2107.02668) if you are using this code.
