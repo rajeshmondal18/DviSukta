@@ -264,7 +264,7 @@ void main()
 	  
 	  if(print_flag > 0)
 	    {
-	      sprintf(file1,"%s%1.3f%s%2.3f%s%1.3f","k2byk1_",k2byk1,"/bispec_z",z,"_cosalpha",-cost);
+	      sprintf(file1,"%s%1.3f%s%1.3f","k2byk1_",k2byk1,"/bispec_cosalpha",-cost);
 	      outpp=fopen(file1,"w");
 	      //printf("Writting bispectrum file %s\n",file1);
 	      
